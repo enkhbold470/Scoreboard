@@ -7,4 +7,9 @@ I’m going to show you how I built a scoreboard back in 2019 (when I was 17 yea
 
 In 11th grade, I got the idea to make my own scoreboard. Presented to my highschool, so then they funded us to build scoreboard.
 
+
+
+![IMG_20190523_005259](https://user-images.githubusercontent.com/53986637/204057116-c92d94b4-b0ba-4a5b-881f-f074f5074889.jpg)
+
+
 ![IMG_20190523_173303](https://user-images.githubusercontent.com/53986637/204053369-e136c684-737f-4e6f-a0b0-bd7c0171a948.jpg)
