@@ -1,13 +1,13 @@
 ## Scoreboard
+
 ## ӨЗБЛАС Онооны самбар
 
 I am thrilled to share you how I built a scoreboard back in 2019 when I was 17 years old. It features a Bluetooth controller, bright lights, and a super loud horn. I'll also provide a list of all the parts needed and briefly explain how I built it, in case you want to make one yourself.
 
+![IMG_20190716_235423](./Photos/scoreboard-sim.png)
 ![IMG_20190522_160428](https://user-images.githubusercontent.com/53986637/204053355-57f6b70d-31d1-415c-80c3-8af2ac9b2ae0.jpg)
-![IMG_20190716_235423](https://github.com/enkhbold470/Scoreboard/IMG_20190716_235423.jpg)
 
 In 11th grade, I came up with the idea to create my own scoreboard. I presented it to my high school, and they were impressed enough to provide funding for us to build the scoreboard.
-
 
 This project showcases the construction of a scoreboard featuring a Bluetooth controller, bright lights, and a super loud horn. This project was initially built in 2019 when I was 17 years old. In this readme, I'll provide an overview of the project, list all the necessary parts, and briefly explain how to build it.
 
@@ -51,10 +51,11 @@ To build the Bluetooth scoreboard, you'll need the following components:
 
 10. Document your project, take photos of the different stages, and create a detailed write-up to share your creation with others.
 
-## Galary
+## Gallery
+
+![img](./Photos/IMG_20190515_064837.jpg)
 
 ![IMG_20190523_005259](https://user-images.githubusercontent.com/53986637/204057116-c92d94b4-b0ba-4a5b-881f-f074f5074889.jpg)
-
 
 ![IMG_20190523_173303](https://user-images.githubusercontent.com/53986637/204053369-e136c684-737f-4e6f-a0b0-bd7c0171a948.jpg)
 
