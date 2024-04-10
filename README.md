@@ -4,7 +4,7 @@
 I am thrilled to share you how I built a scoreboard back in 2019 when I was 17 years old. It features a Bluetooth controller, bright lights, and a super loud horn. I'll also provide a list of all the parts needed and briefly explain how I built it, in case you want to make one yourself.
 
 ![IMG_20190522_160428](https://user-images.githubusercontent.com/53986637/204053355-57f6b70d-31d1-415c-80c3-8af2ac9b2ae0.jpg)
-![IMG_20190716_235423.jpg](https://user-images.githubusercontent.com/53986637/204053355-57f6b70d-31d1-415c-80c3-8af2ac9b2ae0.jpg)
+![IMG_20190716_235423](https://github.com/enkhbold470/Scoreboard/IMG_20190716_235423.jpg)
 
 In 11th grade, I came up with the idea to create my own scoreboard. I presented it to my high school, and they were impressed enough to provide funding for us to build the scoreboard.
 
